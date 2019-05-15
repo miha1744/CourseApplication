@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">574798056272380</string>
+    <string name="fb_login_protocol_scheme">fb574798056272380</string>
+
+    <string-array name="questions">
+        <item>1 Вопрос</item>
+        <item>2 Вопрос</item>
+        <item>3 Вопрос</item>
+        <item>4 Вопрос</item>
+    </string-array>
+
+</resources>
